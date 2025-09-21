@@ -1,4 +1,5 @@
 # 🌾 CropMind: AI-Powered Crop Health & Market Support Agent
+## Hackathon: Technovation’25 Hackathon, organized by Programming Hero and Josephite IT Club.
 
 ## 📌 Introduction
 Farmers in Bangladesh face two critical challenges:
@@ -48,22 +49,20 @@ CropMind is an **agentic Retrieval-Augmented Generation (RAG) application** that
 - Crop disease detection using **computer vision + language models**.  
 - RAG pipeline mapping disease to treatment solutions.  
 - Market price integration with **Bangladesh-specific data sources/APIs**.  
-- Simple **mobile/web interface** (Bangla + English).  
+- Simple **/web interface**
 
 ---
 
 ## 🛣️ Future Roadmap
 - 🌦️ **Predictive disease alerts** based on weather & regional data.  
 - 🛒 Direct **farmer-to-marketplace integration**.  
-- 🌱 **IoT sensor integration** for soil, air, and water monitoring.  
 - 🤖 **Personalized crop advisory** (fertilizer, irrigation, scheduling).  
 
 ---
 
 ## ⚙️ Tech Stack (Tentative)
 **Frontend:**  
-- React Native / Flutter (Mobile)  
-- React.js (Web)  
+- Nextjs for web
 
 **Backend:**  
 - FastAPI  
@@ -75,6 +74,7 @@ CropMind is an **agentic Retrieval-Augmented Generation (RAG) application** that
 
 **Data Sources:**  
 - Bangladesh government agricultural price portals/APIs  
+- Shawpno, chaldal, menbazar website 
 - Curated agricultural disease datasets  
 
 ---
@@ -86,13 +86,6 @@ CropMind is an **agentic Retrieval-Augmented Generation (RAG) application** that
 
 ---
 
-## 📢 Contributing
-We welcome contributions from developers, researchers, and agricultural experts!  
-
----
-
-## 📜 License
-MIT License © 2025 CropMind
 
 
 
